@@ -1,0 +1,7 @@
+{
+  "name": "exoIonic_profil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

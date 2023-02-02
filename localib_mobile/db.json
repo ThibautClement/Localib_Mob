@@ -1,0 +1,267 @@
+{
+    "locataires": [
+      {
+        "id": 1,
+        "name": "Jean",
+        "firstname": "Valjean",
+        "phone": "0666666666",
+        "birthDate": "01/01/2022",
+        "email": "jean.valjean@gmail.com"
+      },
+      {
+        "id": 2,
+        "name": "Jean",
+        "firstname": "Valjean",
+        "phone": "0666666666",
+        "birthDate": "01/01/2022",
+        "email": "jean.valjean@gmail.com"
+      },
+      {
+        "id": 3,
+        "name": "Clément",
+        "firstname": "Thibaut",
+        "phone": "0644167471",
+        "birthDate": "06/24/2012",
+        "email": "clement.thibaut.guillaume@gmail.com"
+      },
+      {
+        "id": 4,
+        "name": "Clément",
+        "firstname": "Thibaut",
+        "phone": "0644167471",
+        "birthDate": "06/24/2012",
+        "email": "clement.thibaut.guillaume@gmail.com"
+      },
+      {
+        "id": 5,
+        "name": "Jean",
+        "firstname": "Valjean",
+        "phone": "0666666666",
+        "birthDate": "01/01/2022",
+        "email": "jean.valjean@gmail.com"
+      },
+      {
+        "id": 6,
+        "name": "Jean",
+        "firstname": "Valjean",
+        "phone": "0666666666",
+        "birthDate": "01/01/2022",
+        "email": "jean.valjean@gmail.com"
+      },
+      {
+        "id": 7,
+        "name": "Jean",
+        "firstname": "Valjean",
+        "phone": "0666666666",
+        "birthDate": "01/01/2022",
+        "email": "jean.valjean@gmail.com"
+      },
+      {
+        "id": 8,
+        "name": "Jean",
+        "firstname": "Valjean",
+        "phone": "0666666666",
+        "birthDate": "01/01/2022",
+        "email": "jean.valjean@gmail.com"
+      },
+      {
+        "id": 9,
+        "name": "Jean",
+        "firstname": "Valjean",
+        "phone": "0666666666",
+        "birthDate": "01/01/2022",
+        "email": "jean.valjean@gmail.com"
+      }
+    ],
+    "vehicules": [
+      {
+        "id": 1,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "452-FG-789",
+        "brand": "BMW",
+        "model": "Serie1",
+        "state": "B",
+        "type": "Voiture",
+        "priceDay": "100",
+        "available": true
+      },
+      {
+        "id": 2,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "Voiture",
+        "priceDay": 100,
+        "available": false
+      },
+      {
+        "id": 3,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "Voiture",
+        "priceDay": 100,
+        "available": false
+      },
+      {
+        "id": 4,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "Voiture",
+        "priceDay": 100,
+        "available": true
+      },
+      {
+        "id": 5,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "Voiture",
+        "priceDay": 100,
+        "available": true
+      },
+      {
+        "id": 6,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "Voiture",
+        "priceDay": 100,
+        "available": false
+      },
+      {
+        "id": 7,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "moto",
+        "priceDay": 100,
+        "available": true
+      },
+      {
+        "id": 8,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "moto",
+        "priceDay": 100,
+        "available": true
+      },
+      {
+        "id": 9,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "moto",
+        "priceDay": 100,
+        "available": false
+      },
+      {
+        "id": 10,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "moto",
+        "priceDay": 100,
+        "available": false
+      },
+      {
+        "id": 11,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "moto",
+        "priceDay": 100,
+        "available": true
+      },
+      {
+        "id": 12,
+        "img": "./src/assets/img/BMWSerie1.png",
+        "immat": "456-BG-456",
+        "brand": "BMW",
+        "model": "Serie 1",
+        "state": "A",
+        "type": "moto",
+        "priceDay": 100,
+        "available": false
+      },
+      {
+        "id": 13,
+        "img": "",
+        "immat": "452-FG-789",
+        "brand": "Mercedes",
+        "model": "CLS",
+        "state": "A",
+        "type": "car",
+        "priceDay": "250",
+        "available": true
+      }
+    ],
+    "location": [
+      {
+        "id": 1,
+        "vehicule": {
+          "id": 1,
+          "img": "./src/assets/img/BMWSerie1.png",
+          "immat": "456-BG-456",
+          "brand": "BMW",
+          "model": "Serie 1",
+          "state": "A",
+          "type": "voiture",
+          "priceDay": 100,
+          "available": "Non"
+        },
+        "locataire": {
+          "id": 1,
+          "name": "Jean",
+          "firstname": "Valjean",
+          "phone": "0666666666",
+          "birthDate": "01/01/2022",
+          "email": "jean.valjean@gmail.com"
+        }
+      },
+      {
+        "id": 2,
+        "vehicule": {
+          "id": 2,
+          "img": "./src/assets/img/BMWSerie1.png",
+          "immat": "456-BG-456",
+          "brand": "BMW",
+          "model": "Serie 1",
+          "state": "A",
+          "type": "voiture",
+          "priceDay": 100,
+          "available": "Non"
+        },
+        "locataire": {
+          "id": 2,
+          "name": "Jean",
+          "firstname": "Valjean",
+          "phone": "0666666666",
+          "birthDate": "01/01/2022",
+          "email": "jean.valjean@gmail.com"
+        }
+      }
+    ]
+  }
